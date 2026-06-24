@@ -1,0 +1,14 @@
+# Local Python environments and caches
+.venv/
+.runtime/
+.sfepy/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Generated heavy simulation outputs
+rslt/*.mesh
+rslt/*.vtk
+rslt/sfepy_output/
+rslt/.matplotlib/
