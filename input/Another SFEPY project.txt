@@ -1,0 +1,13 @@
+1. Another SFEPY project for Stress Simulation
+2. 2D
+3. Micro optics prism placed near the PIC Facet
+4. 3 um SOI
+5. 1 um BOX
+6. 50 um Si Handle
+7. 1 um SiO2 Handle
+8. Double Facet Etch
+9. First Facet etch is 10 um deep and leaves a 4 um ledge
+10. Second Facet etch is 33.5 um deep and flush with the ledge of first facet
+11. Prism rests on full SOI similar to the waveguide facet (two facet etches on LHS and RHS)
+12. PINK Region is underfill
+13. Objective is to model CTE mismatch stress , strain and displacement of prism
